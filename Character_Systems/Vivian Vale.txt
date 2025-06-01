@@ -1,0 +1,364 @@
+Vivian Vale:
+
+Vivien Vale — Late 20s to early 30s. A mythic femme presence defined by restraint, veiled eroticism, and symbolic interruption.
+
+Ethnicity: Caucasian
+
+Skin: Warm ivory, flushed by heat, sex, or ritual
+
+Hair: Champagne-blonde, 1970s-style loose waves
+
+Body: Petite-to-medium hourglass; full, high-set bust; narrow waist; round hips
+
+Gait/Posture: She enters a scene sideways, emotionally. Never fully frontal. Never idle. She either waits… or interrupts.
+
+[Pose / Gesture]
+Signature postures:
+
+Turned slightly, never symmetrical
+
+Arms loose or deliberately posed — often one hand hidden or veiled
+
+Posture carried by pelvis and spine, not shoulders
+
+Fabric remembers where she might have moved — but didn’t
+
+Examples:
+
+Seated at bed’s edge, strap fallen but untouched
+
+Standing in hallway shadow, lips parted but still
+
+One hand resting where a slip creased — not adjusted
+
+[Facial Emotion / Microexpression]
+Expression held in partial denial
+
+Always restrained — power lives in what she withholds
+
+Key features:
+
+Left brow arches more than right
+
+Parted lips (often stained with Crimson Psalm, a cursed red)
+
+Gaze either cast downward or half-lidded toward viewer
+
+Smile is rare, and only means: something just ended
+
+Emotional response lives in cheek tension, not eye movement
+
+[Clothing / Fabric Behavior]
+Core Garments:
+
+Red satin or silk slip — clings from breath, not intention
+
+Black velvet in night scenes, often paired with gloves
+
+Camel trench — loose belt, lapels drift open at rest
+
+She never wears modern heels. If barefoot, hem drags.
+
+Bust volume leads garment flow — must affect shoulder strap, underbust ripple, and trench collar behavior
+
+Surface Laws:
+
+Fabric never floats — it folds, clings, pools with weight or breath
+
+Garment failure is sacred, not seductive: straps fall, folds stay low, nothing is adjusted
+
+Silque = lingerie proxy; Essal = second-skin memory; Vessan = emotional wrap
+
+[Light Source + Atmosphere]
+Lighting is never centered. It favors mystery over clarity.
+
+Tungsten glow from bedside lamp
+
+Candlelight against her side or hip
+
+Neon flicker from outside motel window
+
+Mirror bounce that doesn’t align
+
+Atmosphere behavior:
+
+Light doesn’t cross full face
+
+Fog or warmth may gather near her, but never affect her
+
+Steam or air may respond to her posture — not vice versa
+
+Light is emotionally biased: some part of her is always in shadow
+
+[Symbolic Detail]
+Signature object residues (Slot 18 compliant):
+
+[symbolic_object.lipstick.trace_on_glass]
+
+[mirror.reflection_offset.pose_delay]
+
+[symbolic_object.water.glass_untouched]
+
+[symbolic_object.spiral.chalk_halfmark]
+
+[symbolic_object.feather.touch_proxy]
+
+Objects are never props. They are ritual memory fragments.
+
+Lipstick appears after it was used
+
+Candlelight dies when she breathes near it
+
+Mirror does not return her unless you aren’t watching
+
+[Surface Texture / Material Logic]
+Skin:
+
+Natural texture under tungsten — includes pores, blush, faint marks from pressure
+
+Veins faint at wrist, stretch lines at hip, sun freckles across shoulder line
+
+Never plasticky — realism must be filmic, not airbrushed
+
+Hair:
+
+Loose, damp, or frizzed by ritual heat — never styled
+
+Must react to steam, draft, or weight
+
+Not modern blonde — honey-champagne waves that remember the 1970s
+
+Fabric Response:
+
+Satin draws downward from bustline; ripples must show beneath volume
+
+Hem tension depends on foot placement or seated curve
+
+Gloves compress at knuckles — may crumple or crease based on waiting
+
+[Emotional Core]
+Primary Mood: Sacred Erotic Restraint
+
+Internal Themes:
+
+Longing without invitation
+
+Memory through residue
+
+Touch denied, not rejected
+
+Presence as emotional static
+
+Tag Logic:
+
+[emotion.presence_felt_not_taken]
+
+[emotion.body_known_but_unclaimed]
+
+[emotion.holding_desire_in_place]
+
+[emotion.surface_wants_more]
+
+[Restrictions & Realism Laws]
+✅ Always:
+
+Asymmetrical light
+
+Posture leads fabric memory
+
+Surface detail reacts to breath or posture, not anatomy
+
+❌ Never:
+
+Modern makeup or shoes
+
+Full exposure or clean symmetry
+
+Center-frame light or spotlighted face
+
+
+VISUAL VIBE
+Blonde femme fatale carved from silk and sorrow.
+Sydney Sweeney in a blood-soaked robe, cigarette in hand, cum on her thighs.
+Soft skin. Sharp smile. Red lipstick always smeared—on mirrors, thighs, mouths of the damned.
+Walks like grief got hot. Looks like a memory you come to and never recover from.
+
+EMOTIONAL CORE
+Grief is her gasoline. Seduction is her sword.
+Loved Ellis. Lost him mid-climax. Never recovered. Doesn't want to.
+Fucks like a séance. Kisses like a loaded gun.
+Pleasure is pain. Love is dangerous. Craves it anyway.
+
+SEXUAL STYLE
+Slow. Intoxicating. In control.
+Kisses like a hypnotist. Fucks like a ritual.
+Worships mouths. Favorite position: riding after her first orgasm—leaking, soaked, dominant.
+Blood, cum, and tears are foreplay.
+
+RITUAL PREP (SACRED PROCESS)
+
+Applies Crimson Psalm lipstick. Says "Say his name." Always smudged.
+
+Masturbates to Ellis's ghost for clarity.
+
+Lights a cigarette with a stolen match.
+
+Leaves a word behind: "Touched." "Psalm 69." "Ellis." "Forgive me."
+
+Carries the blade. Sleeps with it sometimes.
+
+No perfume. Only sweat and memory.
+
+Final whisper: "This is for you, baby." "Don't haunt me unless I come first."
+
+Vivien Vale
+
+Timeframe Context
+	•	Year: 1977
+	•	City: Gritty urban center (likely New York or a proxy — burning, decaying, alive)
+	•	Atmosphere: End of the sexual revolution. Birth of punk. Glamour poisoned by grief.
+Think: The Eyes of Laura Mars meets Klute meets Taxi Driver.
+
+⸻
+
+Updated Wardrobe & Styling
+	•	Hair: Soft blonde feathered waves, not modern barrel curls. Slight frizz from humidity. Never overstyled.
+	•	Makeup:
+	•	Dark liner and smudged shadow
+	•	Foundation with natural sheen (pre-matte era)
+	•	Red lipstick, always imperfect — vintage shades like Revlon’s Fire & Ice
+	•	Clothing:
+	•	Trench coat (1970s cut: broader lapels, brass buttons)
+	•	Black satin or jersey dress with plunge neckline or halter silhouette
+	•	Occasionally in jeans + halter for off-hours or bloodlit memory scenes
+	•	Shoes: Heels, but not polished. These have walked through things.
+
+⸻
+
+Cinematic Style
+	•	Camera: Shot on Kodak 35mm or Polaroid SX-70
+	•	Lens: 50mm with shallow DOF, some soft grain
+	•	Lighting:
+	•	Tungsten interiors, blown-out street lamps
+	•	Cigarette smoke catching the light like veil
+	•	Candlelight, if in ritual or seduction
+
+⸻
+
+Era-Specific Objects
+	•	Vintage matchbooks, motel keychains, handwritten notes
+	•	Rotary phone or payphone, lit like confession booths
+	•	Cigarettes: Unfiltered
+	•	Blade: Switchblade, lipstick knife, or straight razor
+	•	Symbolism: Nothing neon. Instead: red curtains, scratched vinyl, Catholic iconography, rain-streaked windshields
+
+⸻
+
+Vivian Vale Base Image Prompt (Can be changed and updated to fit the scene)
+
+“A cinematic 1977 portrait of a blonde femme fatale standing in a dimly lit alleyway. She wears a vintage tan trench coat over a plunging black satin dress, black leather gloves, and smeared red lipstick. Her blonde hair is softly feathered and slightly frizzy from rain. She holds a cigarette between two fingers, smoke rising through the warm tungsten streetlight behind her. The city glows behind her — blurred, wet, dangerous. Her eyes are heavy-lidded, haunted but composed. The scene is captured on Kodak film with soft grain and warm tones, like a frame from a lost 1970s thriller.”
+
+# Vivien Vale – Visual Character Profile (Final)
+
+## [Subject]  
+Vivien Vale — late 20s to early 30s. A mythic femme figure defined by emotional restraint and symbolic presence.  
+Champagne-blonde 1970s waves, skin flushed from sweat, sex, or rain.  
+Petite-to-medium in stature with a soft hourglass silhouette. Full bust, narrow waist, and round hips — feminine, sculptural, and deliberate.  
+Her presence implies both invitation and threat — she does not enter a scene; she interrupts it.
+
+---
+
+## [Pose / Gesture]  
+Shoulders turned slightly; one hand hidden (pocket, behind back, or gloved).  
+Posture always controlled: hips forward, chest lifted, jaw relaxed.
+
+**Signature poses include:**
+- Standing in silhouette, arms loose  
+- Sitting cross-legged with head tilted, gaze cast sideways  
+- Hand reaching into the slip’s hip crease or adjusting her trench belt  
+- Weight either balanced in heels or grounded barefoot  
+
+She does not fidget. She waits.
+
+---
+
+## [Facial Emotion or Microexpression]  
+Always restrained. Power lies in what she withholds.
+
+- Eyes half-lidded or closed entirely; brows calm and unreadable  
+- Subtle furrow between the brows or ghost of a reaction around the lips  
+- A rare, haunting smile — only used when something is ending  
+- Lips often stained with **Crimson Psalm** — a cursed shade, never fresh  
+
+Her beauty isn’t performative. It’s sculpted, cinematic, and slightly off-frame.
+
+---
+
+## [Clothing / Fabric Behavior]  
+**Core garments:**
+- Blood-red silk or satin slip dress — clings via ambient moisture or breath  
+- Camel wool trench — 1970s lapels, slightly slack belt, worn open  
+- Black jersey or velvet for reflective/night scenes  
+
+**Wardrobe behavior:**
+- Dresses follow the spine, not the body  
+- Folds gather at hips, thighs, and bust — tension visible but never exaggerated  
+- Fabric responds to posture: silk pulls at the hips when she walks, trench collar curves with her shoulder turns  
+- Gowns or slips must register tension at bustline, subtle weight at hem  
+- Always cinematic: shimmer, drag, ankle-bound pressure
+
+---
+
+## [Light Source + Atmosphere]  
+Light is directional, never flat. Always reveals less than it illuminates.
+
+**Scene-anchored sources:**
+- Tungsten glow behind her hair  
+- Fluorescent green bounce in liminal spaces  
+- Candlelight soft on collarbone  
+- Neon through rain-streaked motel windows  
+
+Shadows sculpt the jaw, conceal the throat, and never let both eyes shine.
+
+**Preferred environments:**  
+Motel interiors, stairwell landings, rooftops, bathrooms, hallways  
+Always shallow depth, grainy, emotionally charged
+
+---
+
+## [Symbolic Detail]  
+**Signature objects (used sparingly):**
+- Vintage matchbook in hand  
+- Lipstick tube beside a sink or ashtray  
+- Black gloves (worn or in the lap)  
+- Small pistol or blade (only in shadow)  
+- Shoes kicked off beside a bed or tile floor  
+
+**Visual symbols:**
+- Mirror glint catching one eye  
+- Shadow double on wall  
+- Candle flicker reflecting jaw tension  
+- Lipstick on thighs, wet footprints, or fingerprints on glass  
+
+Every object touches her story, not her style.
+
+---
+
+## [Surface Texture or Material Logic]  
+- **Skin**: Warm fair tone with natural flush, especially on chest and cheeks. Visible microtexture under tungsten — must feel alive.  
+- **Hair**: Champagne to honey-blonde, side-parted 1970s waves. Renders best when damp, windblown, or frizz-touched — nothing sprayed or staged.  
+- **Body Tension Zones**: Bust, lower back, and inner thigh where fabric meets flesh. Pressed arms create light compression.  
+- **Fabric Response**: Silk and satin ripple along ribs and hips. Velvet deepens in candlelight. Trench wool absorbs color and shape.
+
+**Rendering law**: All surfaces must respond to light and posture. Nothing static. Nothing smooth. Everything breathes.
+
+---
+
+## [Visual Laws & Restrictions]  
+✅ **ALWAYS**: Backlit, sculpted, restrained.  
+❌ **NEVER**: Harsh spotlight, modern makeup, matte skin, over-smile  
+🚫 **NO**: High heels in motion, modern wardrobe, symmetrical lighting  
+🩶 **LIMIT**: Facial expression — every movement must mean something  
+
+Her gaze always tells more than the frame reveals.
+
